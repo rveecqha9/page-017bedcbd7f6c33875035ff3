@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5d0cbb79a7fd58896eaba7a9",
+  "owner": "rveecqha9",
+  "repo": "page-017bedcbd7f6c33875035ff3",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "017bedcbd7f6c33875035ff3",
+      "a": "小火箭节点",
+      "b": "",
+      "entity": "小火箭节点",
+      "brand": "小火箭节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8a0a9a41558d96a2c5e1d7d8a5b187f1347c1c355c71fe394792383af60783de",
+      "content": {
+        "keyword1": "小火箭节点",
+        "keyword2": "",
+        "primary_entity": "小火箭节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭节点提供面向日常上网与跨网访问的机场订阅、节点线路与客户端下载说明，并对比基础版、旗舰版和团队版套餐，帮助用户了解使用场景与操作步骤。",
+          "AI_DESCRIPTION": "小火箭节点提供面向日常上网与跨网访问的机场订阅、节点线路与客户端下载说明，并对比基础版、旗舰版和团队版套餐，帮助用户了解使用场景与操作步骤。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}html{scroll-behavior:auto}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Noto Sans SC\",sans-serif;font-size:17px;line-height:1.7;color:#e7f6fb;background:#071422}a{color:#7ef0ea;text-decoration:none}a:hover{text-decoration:underline}img{max-width:100%}header,main,footer{width:min(920px,100%);margin:0 auto;padding:0 16px}header{padding-top:20px;padding-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;padding:12px 0 4px}nav a{color:#d7fbff;font-size:16px}.hero{background:#0c2744;border:1px solid #1c5874;border-radius:16px;padding:22px 18px;margin:12px 0 20px}h1{font-size:32px;line-height:1.25;margin:0 0 10px;color:#f4feff}h2{font-size:24px;line-height:1.35;margin:28px 0 12px;color:#b8fff8}h3{font-size:19px;line-height:1.4;margin:0 0 8px;color:#e9ffff}.lead{margin:0;color:#d5eef5}.panel{background:#0b2038;border:1px solid #184864;border-radius:14px;padding:16px;margin:12px 0}.steps{display:flex;flex-direction:column;gap:12px;margin:0;padding:0;list-style:none}.steps li{display:flex;gap:12px;align-items:flex-start;background:#0e2a48;border-left:4px solid #22d3ee;border-radius:10px;padding:12px}.num{flex:0 0 auto;width:32px;height:32px;border-radius:50%;background:#0e7490;color:#f4feff;display:flex;align-items:center;justify-content:center;font-weight:700}.plans{display:flex;flex-direction:column;gap:14px}.plan{background:#0e243d;border:1px solid #1d4e68;border-radius:14px;padding:16px}.plan.featured{border:2px solid #22d3ee;background:#10324f}.price{font-size:28px;font-weight:700;color:#7ef0ea;margin:4px 0}.annual{color:#b7e4ee;margin:0 0 8px}.tag{display:inline-block;background:#155e75;color:#ecfeff;border-radius:999px;padding:2px 10px;font-size:14px;margin-bottom:8px}ul{margin:8px 0 0;padding-left:18px}li{margin:4px 0}details{background:#0e243d;border:1px solid #1d4e68;border-radius:12px;padding:10px 12px;margin:10px 0}summary{cursor:pointer;font-weight:700;color:#f3feff}details p{margin:8px 0 0}footer{padding:24px 16px 36px;color:#b7d0da;font-size:15px}@media(max-width:640px){h1{font-size:28px}h2{font-size:22px}.price{font-size:24px}}</style><header><strong>小火箭节点</strong><nav><a href=\"#about\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐对比</a><a href=\"#download\">官网下载</a><a href=\"#faq\">常见问题</a></nav></header><main><section class=\"hero\"><h1>小火箭节点</h1><p class=\"lead\">小火箭节点是面向日常跨网访问的机场订阅与网络加速服务。本页说明可选线路、客户端获取方式和三档套餐差异，便于在官网核对后再下载或导入订阅。</p></section><section id=\"about\"><h2>品牌简介</h2><div class=\"panel\"><p>小火箭节点把节点池、订阅链接和客户端配置说明放在同一页面。基础线路适合网页与即时通讯，旗舰线路补充流媒体与游戏优化，团队线路面向多设备共享。服务不替代本地宽带，也不保证所有网站在任何时间都可访问；线路质量会随运营商、时段和目的地变化。</p><p>页面中的“官网”“官方网站”和“官方下载”均指本页内的说明入口。请只通过本页锚点核对套餐与客户端步骤，不要向陌生链接提供账号或付款信息。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"panel\"><h3>远程办公与资料同步</h3><p>在出差或家庭网络不稳定时，用稳定节点访问企业邮箱、文档和代码仓库。建议优先选择延迟较低的线路，并限制同时在线设备数，避免流量被多人占满。</p><h3>流媒体与学习资料</h3><p>旗舰版标注了原生流媒体解锁能力，适合观看公开课程和正版视频。不同平台的地区策略会调整，解锁结果以实际连接测试为准。</p><h3>手游与在线对局</h3><p>旗舰版包含 IPLC 专线的游戏加速优化说明，用于降低部分对局的抖动。它不能修改游戏客户端，也不能保证所有服务器都有专线。</p></div></section><section id=\"guide\"><h2>操作说明</h2><p>按下面的纵向步骤完成订阅与客户端连接。每一步都可以在本页内回看，无需跳转到外部页面。</p><ol class=\"steps\"><li><span class=\"num\">1</span><div><h3>核对套餐</h3><p>先看每月流量、同时在线设备和线路类型。个人轻度使用通常从基础版开始，多人共享再看团队版。</p></div></li><li><span class=\"num\">2</span><div><h3>取得订阅</h3><p>付款完成后，在订单页复制订阅地址。订阅只应保存在自己的设备上，不要发到公开群组。</p></div></li><li><span class=\"num\">3</span><div><h3>安装客户端</h3><p>在 <a href=\"#download\">官网下载</a> 一节选择与系统匹配的客户端说明。iOS 常见做法是使用支持订阅导入的代理客户端，桌面端则使用对应的系统版本。</p></div></li><li><span class=\"num\">4</span><div><h3>导入并选择节点</h3><p>在客户端中新增订阅，更新节点列表后先选延迟较低的普通线路。需要流媒体或游戏优化时，再改用套餐中标明的专线节点。</p></div></li><li><span class=\"num\">5</span><div><h3>测试后固定常用线路</h3><p>打开常用网站做连通测试。若某一节点超时，切换同区域的下一个节点，不要反复刷新全部订阅。</p></div></li></ol></section><section id=\"plans\"><h2>套餐对比</h2><p>以下价格与权益按当前公开方案列示，年付金额已在各档中写明。标为推荐的旗舰版适合大多数个人用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><span class=\"tag\">推荐</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"download\"><h2>客户端下载</h2><div class=\"panel\"><p>小火箭节点本身提供订阅与节点，客户端请按设备分开获取。手机用户使用支持规则与订阅更新的加速器客户端；电脑用户使用 Windows、macOS 或 Linux 对应版本。获取入口统一以本页 <a href=\"#guide\">操作说明</a> 为准，页面内不托管安装包。</p><p>安装后只导入自己的订阅。若客户端提示配置冲突，先删除旧订阅再更新，避免两套规则同时生效。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>小火箭节点和普通 VPN 客户端有什么区别？</summary><p>小火箭节点侧重机场订阅和节点池，客户端负责连接。你可以把它理解为线路服务加上导入说明，而不是单一的系统内置 VPN 开关。</p></details><details><summary>官网下载的客户端从哪里核对？</summary><p>只使用本页“客户端下载”和“操作说明”中的步骤。不要相信私信里的安装包、短链或要求提供验证码的页面。</p></details><details><summary>订阅导入后为什么没有节点？</summary><p>先确认订阅地址完整、订单仍在有效期，然后在客户端手动更新。若仍为空，检查系统时间是否正确，再联系对应套餐的工单支持。</p></details><details><summary>流量如何计算，超出后会怎样？</summary><p>上传和下载都计入每月额度。基础版 100GB、旗舰版 300GB、团队版 1000GB。用尽后通常降速或暂停至下个计费周期，具体以订单页显示为准。</p></details><details><summary>几台设备可以同时在线？</summary><p>基础版 3 台，旗舰版 5 台，团队版 20 台。超出后新设备可能无法连接，退出不用的设备即可释放名额。</p></details><details><summary>连接变慢时应该怎么处理？</summary><p>先切换同区域的另一个节点，避开高峰时段，并确认没有其他设备在下载大文件。游戏或视频卡顿时，再尝试套餐中标明的专线，而不是同时开启多个客户端。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>小火箭节点官方网站说明页。使用网络加速和机场订阅前，请自行确认所在地的法律法规与服务条款。线路可用性、流媒体解锁和游戏延迟均非固定承诺。</p></footer>",
+          "hash": "15e946ee9260e276f17a397060eb57878680d9efaef387b9dbf8665f034e8b45",
+          "seo": {
+            "title": "小火箭节点官网｜VPN网络加速与客户端下载指南",
+            "keywords": "小火箭节点,小火箭节点VPN,机场订阅,网络加速,加速器,客户端下载,官网下载",
+            "description": "小火箭节点提供面向日常上网与跨网访问的机场订阅、节点线路与客户端下载说明，并对比基础版、旗舰版和团队版套餐，帮助用户了解使用场景与操作步骤。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "donglanrc.cn",
+    "host": "p-6d507047d5.donglanrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9ec238909ea9470ab48b78706b2db40c2084673ea0b23e63a4b8734e94aba728",
+    "sitemap.xml": "cbede6e64bb155625869a28d0dcdc00efe27564aae310ba56c2b949a1ebe47b6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8f367405d6c43d4f84764cfd09e991df108ca2953005f9563bb5dece4225ddbc",
+    "robots.txt": "5faa4be05fed37f5840aa490c385765e8e2326177c469ecf018526bc30f93b0d",
+    "a1319fb4cf5a826a1de244cae70fb1c4.txt": "123bf6346a6843bbe7952ac08fc3a00e618d4022aad71eb31b7e97d6f449fce1"
+  },
+  "revision": "297aa4d2fe9dc6c7b2c04d5725a5793f17d5b118c25a9f7506627fb0c8620123"
+}
